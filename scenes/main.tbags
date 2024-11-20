@@ -1,0 +1,6 @@
+G BG img/sample-img.jpg
+T "This is a sample line of text."
+T "You can add multiple lines using multiple T statements"
+T "You can show/hide the text using N"
+C "Choice 1" scenes/choice1.tbags
+C "Choice 2" scenes/choice2.tbags

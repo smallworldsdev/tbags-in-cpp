@@ -1,0 +1,3 @@
+G BG img/choice-2.jpg
+T "This is the choice 2 scene."
+C "Go Back" scenes/main.tbags
