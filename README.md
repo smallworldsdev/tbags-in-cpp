@@ -16,9 +16,9 @@ An example scene is setup; it should run on running main.exe provided sfml is al
 Syntax:
   In each .tbags file you can furnish the above particulars using the following syntaxes:
 
-  * To select background images: G BG <relative-path-to-img>
-  * To display a line of text: T "<text>"
-  * To give a choice: C "<choice-text>" <relative-path-to-tbags-file>
+  * To select background images: G BG relative-path-to-img
+  * To display a line of text: T "text"
+  * To give a choice: C "choice-text" relative-path-to-tbags-file
 
 
 Limiations:
